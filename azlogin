@@ -1,0 +1,8 @@
+# Login to Azure interactively
+az login
+
+# Optional: Set your desired subscription (replace with your Subscription Name or ID)
+az account set --subscription "93076d3e-06a2-43c4-a814-800e8063ff97"
+
+# Optional: Open Azure Portal in the browser
+start https://portal.azure.com
